@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ddd6aba.chunk.css",
+    "main.js": "/static/js/main.212f5c1a.chunk.js",
+    "main.js.map": "/static/js/main.212f5c1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a42b8119.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a42b8119.js.map",
+    "static/js/2.548ad4de.chunk.js": "/static/js/2.548ad4de.chunk.js",
+    "static/js/2.548ad4de.chunk.js.map": "/static/js/2.548ad4de.chunk.js.map",
+    "static/js/3.db943b8d.chunk.js": "/static/js/3.db943b8d.chunk.js",
+    "static/js/3.db943b8d.chunk.js.map": "/static/js/3.db943b8d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9ddd6aba.chunk.css.map": "/static/css/main.9ddd6aba.chunk.css.map",
+    "static/js/2.548ad4de.chunk.js.LICENSE.txt": "/static/js/2.548ad4de.chunk.js.LICENSE.txt",
+    "static/media/Gomoku.png": "/static/media/Gomoku.92dd7ee1.png",
+    "static/media/Morney-money.png": "/static/media/Morney-money.d3bc1e95.png",
+    "static/media/Morney.png": "/static/media/Morney.ad0a9c33.png",
+    "static/media/RateMyRestaurantLogin.png": "/static/media/RateMyRestaurantLogin.2a626842.png",
+    "static/media/avatar.png": "/static/media/avatar.131dd0c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a42b8119.js",
+    "static/js/2.548ad4de.chunk.js",
+    "static/css/main.9ddd6aba.chunk.css",
+    "static/js/main.212f5c1a.chunk.js"
+  ]
+}
